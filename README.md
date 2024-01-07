@@ -1,5 +1,5 @@
 # NUVER
-A network-based vulnerability visualizer!
+A network-based vulnerability visualizer! The paper, "NUVER: Network Based Vulnerability Visualizer," is published in the 2023 IEEE 30th Annual Software Technology Conference (STC) proceedings. Found here: https://ieeexplore.ieee.org/document/10336275
 
 ### Dependencies
 * Please utilize the following commands for dependency installations:
